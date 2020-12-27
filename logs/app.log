@@ -1,0 +1,8 @@
+2020-12-05 20:58:50,493 DEBUG c.d.l.LoggerCheckApplication [main] BBB Debug level log message
+2020-12-05 20:58:50,504 ERROR c.d.l.LoggerCheckApplication [main] CCCC Error level log message
+2020-12-05 20:58:50,504 INFO c.d.l.LoggerCheckApplication [main] AAA Info level log message
+2020-12-05 20:58:50,504 DEBUG c.d.l.LoggerCheckApplication [main] BBB Debug level log message
+2020-12-05 20:58:50,504 ERROR c.d.l.LoggerCheckApplication [main] CCCC Error level log message
+2020-12-05 20:58:50,505 INFO c.d.l.LoggerCheckApplication [main] AAA Info level log message
+2020-12-05 20:58:50,505 DEBUG c.d.l.LoggerCheckApplication [main] BBB Debug level log message
+2020-12-05 20:58:50,505 ERROR c.d.l.LoggerCheckApplication [main] CCCC Error level log message
